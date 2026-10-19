@@ -1,2 +1,2 @@
-# together-pottsville-feed
-TogetherPottsville.org Blog Feed
+# VeeMercado.com  
+Client Facing Assets
